@@ -6,5 +6,5 @@ This payload will: 1. open https://fakeupdate.net/win10ue/
                    4. navigate back to edge (default browser for windows)
                    5. enter fullscreen
       
-I wrote this for Win11 so please tell me if it works on Win10 aswell 
+I wrote this for Win11 so please tell me if it works on Win10 aswell. 
 I couldn't test this yet so lmk if it works. If not (this is my first project) just change something
