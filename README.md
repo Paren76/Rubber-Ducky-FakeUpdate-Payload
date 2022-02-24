@@ -1,4 +1,4 @@
-# Rubber-Ducky-Troll-Payload
+# Rubber-Ducky-FakeUpdate-Payload
 Funny/ interesting Rubby Ducker payload. If you don't know how to set up the RD check out a video from NetworkChuck: https://www.youtube.com/watch?v=e_f9p-_JWZw
 This payload will: 1. open https://fakeupdate.net/win10ue/
                    2. Navigate to device manager
