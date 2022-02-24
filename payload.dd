@@ -51,5 +51,9 @@ RIGHTARROW
 TAB 
 TAB 
 TAB
+ENTER
 ENTER 
 ENTER
+GUI r
+STRING microsoft-edge:
+F11
